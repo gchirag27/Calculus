@@ -1,0 +1,5 @@
+cos(pi/3)
+sqrt(37)
+atan(1)
+log10(2)
+exp(3)   
